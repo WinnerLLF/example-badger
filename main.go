@@ -63,8 +63,7 @@ func Management() {
 }
 
 func main() {
-	flag.Parse()
-
+	flag.Parse()	
 	Management()
 	// TODO badgerDB实例
 	switch *check {
