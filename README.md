@@ -1,5 +1,5 @@
-## 对`badger`数据存储包的一个使用实例
-**`badger/`数据存储目录**
+## A use instance of the 'badger' data storage package
+**`badger/`Data storage directory**
 
 
 
